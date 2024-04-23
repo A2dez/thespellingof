@@ -2,21 +2,49 @@
 title: "The spelling of English numbers"
 ---
 
-The spelling of English numbers is **about as bizarre and inconsistent** as it gets, from the silent letter \<w\> in *two* to the unwritten /w/ at the start of *one*.
-
-Yet three, five, six, nine and ten are all good clean spellings \[\[ who do exactly what they say on the tin, so them // whose \]\] pronunciation is easily predicted from the spelling and the spelling can be predicted from the sound, at least for people who distinguish 'three' and 'tree' differently.
-
-INSERT MAP OF PEOPLE WHO DON'T DISTINGUISH /TH/ and /t/.
-
-START
-
-including the invisible 'w' in 'one' and the silent 'w'
-
-Let's leave the madness of one til the end and we'll start with 'two'.
+The spelling of English numbers is **about as bizarre and inconsistent** as it gets, from the 'silent' letter \<w\> in *two* to the unwritten /w/ sound at the start of *one*. Things settle down a bit after that but there's a lot to go through in these very high-frequency words. I'm going to blast through the numerals from 1-20 and the round numbers after that, 30 - 90, 100, 1000, a million and a squillion. But *one* is so weird that I'm saving the first til last, and we'll kick of with *two*.
 
 ## Two
 
-The
+The first thing to note is that the \<w\> of *two* survives in a bunch of related words, most notably *twelve* and *twenty*, as we'll see below, but also in *twin* and *twice, betwixt* and *between*, and a roll call of other doubly, forky, splitting things such a *twilight*, mixing day and night,the multiple threads of *twine*, and also *twist*, *twill* and *twig*. Mark also that these words all have \<e\> or \<i\> after the /w/.
+
+The /w/ was present in Old English numeral *twa* - mark the 'a' - and its grammatical variants from which the archaic variant *twain* survives.
+
+*"Thou hast cleft my heart in twain", says Gertrude to Hamlet*
+
+*INSERT PIC with the text*
+
+Incidentally, the writer Samuel Langhorne Clemens took his pseudonym, *Mark Twain*, from a boating term meaning to mark two fathoms of depth, or twelve foot, and the name is as ridonc as the rapper Fifty Cent.
+
+*INSERT PIC of 50c euro / the rapper.*
+
+The 'w' survives in Modern German 'zwei' and all the Germanic languages, (PIC?), but the root goes deeper and we see it in the Romance languages, including Latin 'duo' and modern Italian 'due cappuccini'.
+
+INSERT PERSON ORDERING COFFEE
+
+The putative Indo-European root \*dwo- weaves its way into a huge range of words, beginning with 'bi', 'deu', 'di', 'du', 'tw' or 'zw', and these enter English through its many language sources.
+
+![](images/clipboard-3444894887.png)
+
+<https://www.etymonline.com/search?q=dwo>
+
+So where did the /w/ sound go? It seems its frequency had an effect, you can test this out by saying the word 'towards' a few dozen times in a row. First you'll notice the initial vowel vanishing ('twards') and then the 'w' will disappear, leaving you with 'tords'. The word 'sword' underwent this fate, as did various words with /w/ before a back vowel, including *who* 'who', bizarrely, as it was pronounced with /hw/ and now just /h/.
+
+<https://ell.stackexchange.com/questions/266263/why-is-the-w-silent-in-sword-but-not-in-swore>
+
+dig deeper for fuller reference
+
+I've begun to notice more /w/ dropping in my own speech, especially for the word *with* but possibly for any word beginning with /w/, althought I haven't studied it thoroughly.
+
+INSERT EXAMPLES
+
+\- Breakfast with Tiffany
+
+\- I had steak with Maryanne
+
+------------------------------------------------------------------------
+
+Finally, we must explain the fact that *two* and *who* rhyme with *goo* and *you*, not *go*, *so*, and *flow*.
 
 \- twelve, twenty
 
@@ -31,18 +59,6 @@ Similar words
 \- not sure if it's been spotted in the literature (need to check)
 
 \- Breakfast with Tiffany
-
-\- twelve, twenty
-
-\- tween, betwixt
-
-\- twain, twelve / twelfth, twenty (twainty),
-
-\- twi-
-
-\- twice
-
-\- twig, twilight, twill, twin, twine, twist, (be)twixt, twofold,
 
 Earlier inflectional system
 
@@ -70,19 +86,19 @@ Similar words
 
 \- I had steak with Maryanne
 
-Mark Twain is the pseudonym of American writer and humorist Samuel Langhorne Clemens (1835-1910), who had been a riverboat pilot; he took his pen name from the cry mark twain, the call indicating a depth of two fathoms, from mark (n.1) in a specialized sense of "measured notification (a piece of knotted cloth, etc.) on a lead-line indicating fathoms of depth" (1769) + twain.
-
 ## Three
 
 improvvisatore
 
-## Five, six, nine, ten 
+## Five, six, nine, ten
 
 Five, six, nine and ten are all simple spellings where their sound can be predicted from their spelling and their spelling the sound.
 
 ## Seven
 
 The problem with seven is that it looks like it ought to be rhymed with *even*, when in fact it rhymes with *heaven, Kevin* and *eleven*. Most English consonant letters would be doubled here, as in *redden, ledden*, *essence*, but \<v\> never doubled historically as it used to be a vowel letter, so \<vv\> only occurs in a few modern(ish) slang words such as *navvy* and *savvy*, at word boundaries (*revved*, *bevvied*) or loanwords (*improvvisato*).
+
+------------------------------------------------------------------------
 
 absence of \<vv\> making it look like it ought to be rhymed with *even*. Most consonant letters would be doubled
 
@@ -192,7 +208,7 @@ Data issues
 
 \- this can work as a project too
 
-\--
+--
 
 Des Ryan
 
@@ -210,11 +226,7 @@ PhD Thesis Principles of English spelling formation
 
 Des Ryan \<a2dez.com\@gmail.com\>
 
-	
-
 Apr 19, 2024, 7:28 PM (4 days ago)
-
-	
 
 to me
 
