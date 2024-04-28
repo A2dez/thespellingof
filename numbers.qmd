@@ -6,29 +6,29 @@ The spelling of English numbers is **about as bizarre and inconsistent** as it g
 
 ## Two
 
-The missing /w/ in 'two' vanished as part of sound changes in earlier forms of English and similar process affected *sword, answer*, and, bizarrely, *who*, which usd to have a /hw/ sound. However, the /w/ sound survives in a buncha related words, most notably *twelve* and *twenty*, as we'll see below, but also in *twin* and *twice, betwixt* and *between*, and a roll call of other doubly, forky, splitting things such a *twilight*, blending day and night, *twine*, mixing two or more threads, and also *twist*, *twig* and *twill*. Mark also that these words all have \<e\> or \<i\> after the 'w', as the sound change didnt occur before front vowels.
+### Missing \[w\]
 
-The /w/ was present in Old English numeral *twa* - mark the 'a' - and its grammatical variants from which the archaic variant *twain* survives.
+The 'missing' \[w\] sound in 'two' vanished as part of sound changes in earlier forms of English and similar process affected *sword, answer*, and, curiously, *who* and *whom*, which used to have a /hw/ cluster. Importantly, the /w/ sound survives in a buncha related words, most notably *twelve* and *twenty*, as we'll see below, but also in *twin* and *twice, betwixt* and *between*, and a roll call of other doubly, forky, splitting things such a *twilight*, blending day and night, *twine*, mixing two or more threads, and also *twist*, *twig* and *twill*. Mark also that these words all have \<e\> or \<i\> after the 'w', as the sound change didn't occur before front vowels. \[\[ reference / check \]\]. So hbw did the /w/ sound vanish? It seems frequency must have had an effect, nd you can test this out by saying the word 'towards' a few dozen times in a row. First you'll notice the initial vowel vanishing ('twards') and then the 'w' will disappear, leaving you with 'tords'.
+
+The Old English numeral was *twa*, which declined into various forms \[\[pic\]\], and its 'a' survives in *twain*, variant form of 'two'.
 
 *\[\["Thou hast cleft my heart in twain", says Gertrude to Hamlet*
 
 *INSERT PIC with the text \]\]*
 
-Incidentally, the writer Samuel Langhorne Clemens took his pseudonym, *Mark Twain*, from a boating term meaning to mark twain fathoms of depth, or twelve foot, and the name is as ridonc as the rapper Fifty Cent.
+The writer Mark Twain, born Samuel Langhorne Clemens, takes his name from a boating term meaning to mark twain fathoms of depth, or twelve foot. At the time, Twain's name may have seemed as as ridonc as our rapper Fifty Cent.
 
 *\[\[ INSERT PIC of 50c euro / the rapper. \]\]*
 
-The 'w' survives in Modern German *zwei* and all the Germanic languages \[\[PIC?\]\], but the root goes deeper and we see it in the Romance languages, including Latin *duo* and modern Italian *due*.
-
-\[\[ INSERT PERSON ORDERING due cappuccini, ideally a pretentious knob \]\]
-
-The sequence derives from Indo-European \*dwo-, and it weaves its way via several languages on the way to English words beginning with 'bi', 'deu', 'di', 'du', 'tw' or 'zw'.
+The 'w' is also present in Modern German *zwei* and all the Germanic languages \[\[PIC?\]\], but the root goes can be traced to the Indo-European root \*dwo-, which also gave us Latin *duo* and modern Itlalian *due*. The root weaves its way into English via several languages, including words beginning with 'bi', 'deu', 'di', 'du', 'tw' or 'zw'.
 
 ![](images/clipboard-3444894887.png)
 
+\[\[ INSERT PERSON ORDERING due cappuccini, ideally a pretentious nob \]\]
+
 <https://www.etymonline.com/search?q=dwo>
 
-So where did the /w/ sound go? It seems its frequency had an effect, you can test this out by saying the word 'towards' a few dozen times in a row. First you'll notice the initial vowel vanishing ('twards') and then the 'w' will disappear, leaving you with 'tords'. The word 'sword' underwent this fate, as did various words with /w/ before a back vowel, including *who* 'who', bizarrely, as it was pronounced with /hw/ and now just /h/.
+------------------------------------------------------------------------
 
 <https://ell.stackexchange.com/questions/266263/why-is-the-w-silent-in-sword-but-not-in-swore>
 
