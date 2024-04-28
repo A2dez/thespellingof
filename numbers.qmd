@@ -2,15 +2,19 @@
 title: "The spelling of English numbers"
 ---
 
-The spelling of English numbers is **about as bizarre and inconsistent** as it gets, from the 'silent' letter \<w\> in *two* to the unwritten /w/ sound at the start of *one*. \[\[add pic of IPA for one\]\] Things settle down a bit after the first pair of numerals but there remain no shortage of quirks in these ancient, high-frequency words, providing perfect conditions for fossilized oddities. I'm going to blast through the numerals from 1-20 and the round numbers after that, 30 - 90, 100, 1000, a million and a squillion. But *one* is so weird that I'm saving the first til last, and we'll kick of with *two*.
+The spelling of English numbers is as odd as it gets, from the unpronounced \<w\> of *two* to the unwritten /w/ of *one* \[\[add pic of IPA for one\]\]. Things settle down at *three* there remain plenty of quirks in these ancient, high-frequency words, providing perfect conditions for fossilized oddities. I'm going to blast through the numerals from 1-20 and the round numbers after that, 30 - 90, 100, 1000, a million and a squillion. But *one* is so weird that I'm saving the first til last, and we'll kick of with *two*.
 
 ## Two
 
 ### Missing \[w\]
 
-The 'missing' \[w\] sound in 'two' vanished as part of sound changes in earlier forms of English and similar process affected *sword, answer*, and, curiously, *who* and *whom*, which used to have a /hw/ cluster. Importantly, the /w/ sound survives in a buncha related words, most notably *twelve* and *twenty*, as we'll see below, but also in *twin* and *twice, betwixt* and *between*, and a roll call of other doubly, forky, splitting things such a *twilight*, blending day and night, *twine*, mixing two or more threads, and also *twist*, *twig* and *twill*. Mark also that these words all have \<e\> or \<i\> after the 'w', as the sound change didn't occur before front vowels. \[\[ reference / check \]\].
+The 'missing' \[w\] sound in 'two' is also absent from *sword* and *answer*, and these vanished as part of sound changes in earlier forms of English\[\[refer\]\]. A similar process affected *who, whom* and *whose*, which all had a /hw/ cluster, despite the spelling.
 
-So how did the /w/ sound vanish? It seems frequency must have had an effect, and you can test this out by saying the word 'towards' a few dozen times in a row. First you'll notice the initial vowel vanishing ('twards') and then the 'w' will disappear, leaving you with 'tords'. \[\[INsert audio\]\] I've begun to notice lots of /w/ dropping in my own speech, most notably for the word *with*. Speaking quickly, I drop the /w/ in the common phrase "Breakfast with Tiffany" \[\[, or even "See ya next week"\]\].
+Importantly, the /w/ sound survives in a buncha related words, most notably *twelve* and *twenty*, as we'll see below, but also in *twin* and *twice, betwixt* and *between*, and a roll call of other doubly, forky, splitting things such a *twilight*, blending day and night, *twine*, mixing two or more threads, and also *twist*, *twig* and *twill*. Mark also that these words all have \<e\> or \<i\> after the 'w', as the sound change didn't occur before front vowel\[\[ reference / check \]\].
+
+So how did the /w/ sound vanish? It seems frequency must have had an effect, and you can test this out by saying the word 'towards' a few dozen times in a row. First you'll notice the initial vowel vanishing ('twards') and then the 'w' will disappear, leaving you with 'tords' \[\[INsert audio or graphic\]\]. I've begun to notice lots of /w/ dropping in my own speech, especially with the word *with*. Speaking quickly, I drop the /w/ in the common phrase "Breakfast with Tiffany", or even "See ya next week"\[\[insert audio\]\].
+
+### Mark twain twos
 
 \[\[INSERT more EXAMPLES .. AUDIO SAMPLE or spectrogram\]\]
 
@@ -34,7 +38,26 @@ The 'w' is also present in Modern German *zwei* and all the Germanic languages \
 
 ### Do not rhyme with go
 
-asdfa
+So why does *two* not rhyme with *go*, *so*, and *flow*? To put it another way, why is it not spelt 'twu' or 'too' or 'tu'?
+
+LOOK UP
+
+------------------------------------------------------------------------
+
+## Three - five - six - nine - ten
+
+The spelling of *three* is straightforward, unless you happen to be someone who doesn't distinguish 'tree' and 'three' \[\[insert map\]\]. You might think that all southern Irish people pronounce these the same but many of us have a subtle distinction which doubles up as a regional or social class marker, and this is worthy of its own discussion. Five, six, nine and ten are all simple spellings where their sound can be predicted from their spelling and their spelling the sound, and there's little to say about any of these until we get to their compound forms below.
+
+## Seven
+
+The problem with seven is that it looks like it ought to be rhymed with *even*, when in fact it rhymes with *heaven, Kevin* and *eleven*. Most English consonant letters would be doubled here, as in *redden, ledden*, *essence*, but double \<v\> is actually \<w\> and pronounce double 'u', as 'v' and 'u' used to be the same letter. A few modern words, often slang, contain \<vv\>, as in *navvy* and *savvy*, or at word boundaries (*revved*, *bevvied*) and the odd loanword (*improvvisato*).
+
+## **Eight**
+
+*I before e, except after c\
+Or when sounded as 'a' as in 'neighbor' and 'weigh'*
+
+\[\[INSERT graphic of i before e\]\]
 
 ------------------------------------------------------------------------
 
@@ -88,19 +111,7 @@ Similar words
 
 \- I had steak with Maryanne
 
-## Three
-
-improvvisatore
-
-## Five, six, nine, ten
-
-Five, six, nine and ten are all simple spellings where their sound can be predicted from their spelling and their spelling the sound.
-
-## Seven
-
-The problem with seven is that it looks like it ought to be rhymed with *even*, when in fact it rhymes with *heaven, Kevin* and *eleven*. Most English consonant letters would be doubled here, as in *redden, ledden*, *essence*, but \<v\> never doubled historically as it used to be a vowel letter, so \<vv\> only occurs in a few modern(ish) slang words such as *navvy* and *savvy*, at word boundaries (*revved*, *bevvied*) or loanwords (*improvvisato*).
-
-------------------------------------------------------------------------
+## 
 
 absence of \<vv\> making it look like it ought to be rhymed with *even*. Most consonant letters would be doubled
 
