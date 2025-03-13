@@ -1,0 +1,80 @@
+---
+title: "The Data"
+editor: visual
+---
+
+```{r}
+library(magrittr)
+library(stringr)
+library(readr)
+library(dplyr)
+```
+
+Needs
+- list of English spellings
+- their pronunciation(s)
+- their frequency. 
+
+For now I'm not worried about data quality. So I'm going to grab the following data:
+
+
+I need some word frequency data and for now I´m not worried about data quality, so here is a list compiled by Peter Norvig from Google back in like 2010. 
+```{r}
+URL = "https://norvig.com/ngrams/count_1w.txt"
+
+word_freq_norvig <- read.table(URL) 
+head(word_freq_norvig)
+```
+
+```{r}
+#This contains the Carnegie Mellon pronouncing dictionary, with 57 lines of pre-amble
+#Add footnote to read this
+cmu_07b_URL <- "https://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b"
+lines_to_skip = 57
+
+cmu_dict <- readLines(cmu_07b_URL)
+cmu_dict <- cmu_dict[lines_to_skip:length(cmu_dict)]
+cmu_dict_dfrm <- str_split_fixed(cmu_dict, "  ", n = 2) %>% as.data.frame # as_tibble
+
+View(cmu_dict_dfrm)
+```
+
+We now have `{r} nrow(cmu_dict_dfrm)` capitalised spellings, which should be able to join to the list of word pronunciations. 
+
+However there is a problem with the data and an error is thrown up when I try to join them:
+"Error in nchar(x) : invalid multibyte string, element 1". 
+In order to find the offending characters, I concatenate all of words, then split them into individual characters and make a table. This way I can see how many occurrences there are of all characters, and sure enough there are two symbols which have been imported badly, with both of them being in the same word, **Déjà**, from the French phrase *Déjà vu*. I could repair this spelling but I´ll remove it for now. 
+
+This tells me two things: the dataset doesn't bother with foreign diacritics and R has misread the characters from the URL, something to go back and fix later for future imports. 
+```{r}
+
+str_c(cmu_dict_dfrm$V1, collapse = "") %>% str_split("") %>% table #barplot (horiz = T)
+
+
+str_detect(cmu_dict_dfrm$V1, "\xc9|\xc0") %>% which
+
+cmu_dict_dfrm <- cmu_dict_dfrm[-(35418),]
+
+ #  \xc0   \xc9      '      -      !      "      #      %      &      (      )      ,
+ #     1      1   8107   1067      1      7      3      1      1   8787   8790      1
+ #     .      /      :      ;      ?      _      {      }      +      0      1      2
+ #   124      1      1      2      1    107      3      2      1      4   8159    489
+ #     3      4      5      6      7      8      9      A      B      C      D      E
+ #   149      4      2      2      1      3      1  87230  21893  38694  34970 114284
+ #     F      G      H      I      J      K      L      M      N      O      P      Q
+ # 13840  27197  28690  76122   2692  17138  57130  30503  72730  63335  22488   1432
+ #     R      S      T      U      V      W      X      Y      Z
+ # 77133  75518  58863  30166  10530  11121   2265  15800   6208
+```
+I can now join up the columns, name them and save the dataset for use in later scripts
+
+```{r}
+
+wordlist_ugly <- full_join(word_freq_norvig,
+                         cmu_dict_dfrm %>% mutate(V1 = tolower(V1))  , 
+          by = "V1")
+
+names(wordlist_ugly ) <- c("spelling", "freq_norvig", "pron_cmu")
+
+```
+
